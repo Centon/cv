@@ -1,2 +1,0 @@
-# cv
-une simple cv 
